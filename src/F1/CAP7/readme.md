@@ -1,12 +1,12 @@
-Conceitos avançados de algoritmos e fluxogramas para lógica nas tomadas de decisões - Criar o seu programa com Python
+<h1>Conceitos avançados de algoritmos e fluxogramas para lógica nas tomadas de decisões - Criar o seu programa com Python</h1>
 
 Saúde é o nosso bem mais precioso. Afinal, do que adianta termos muitos bens materiais, dinheiro e não termos saúde? Há enfermidades que fogem do nosso domínio e temos como tratá-las, mas há outras enfermidades que podem ser causadas pelos nossos maus hábitos e vícios; por exemplo, o tabagismo.
 
-Com o objetivo de conscientizar os fumantes sobre esse vício e motivá-los a largar, criaremos uma aplicação:
+<h3>Com o objetivo de conscientizar os fumantes sobre esse vício e motivá-los a largar, criaremos uma aplicação:</h3>
 
 Considere que a aplicação solicite ao usuário o tempo (em anos) que ele fuma, o valor atual do maço e a quantidade média de maços que ele fuma por dia (todos os dados podem ser fracionários). A partir dessas informações, efetuaremos o cálculo do montante gasto por ele e o que ele poderia ter comprado com esse dinheiro.
 
-Usaremos o seguinte critério para as mensagens:
+<h3>Usaremos o seguinte critério para as mensagens:</h3>
 
 Se ele gastou abaixo de 20 mil, exibir a mensagem:
 “Com o valor R$ <montante>, você poderia ter dado entrada em um carro.”
