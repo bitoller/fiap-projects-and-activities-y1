@@ -1,4 +1,4 @@
-Aplicando engenharia de software para entender as melhores linguagens de programação em um projeto - Desenvolva o seu primeiro site
+<h1>Aplicando engenharia de software para entender as melhores linguagens de programação em um projeto - Desenvolva o seu primeiro site</h1>
 
 A Chulamis é uma empresa inovadora, focada no desenvolvimento tecnológico da sociedade.
 
@@ -20,9 +20,9 @@ Com base no que aprendemos nas videoaulas, vamos ajudar a empresa Chulamis a cri
 
 Nosso amigo Bortola já deixou algumas especificações prontas (regras) para nos ajudar no desenvolvimento. Lembrando que a diretoria da empresa Chulamis já aprovou esse layout, portanto, precisamos manter a identidade visual.
 
-<img src="./assets/example-2.png" alt="Figura “Loja Virtual – Drones Net”" />
+<img src="./assets/example-2.jpg" alt="Figura “Loja Virtual – Drones Net”" />
 
-OBSERVAÇÕES
+<h2>OBSERVAÇÕES</h2>
 
 - Seguir a estrutura do layout proposto (figura 2).
 - As dimensões podem ser similares, contanto que mantenha a equivalência do modelo.
