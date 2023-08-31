@@ -11,7 +11,7 @@ Considere que a aplicação solicite ao usuário o tempo (em anos) que ele fuma,
 Se ele gastou abaixo de 20 mil, exibir a mensagem:
 “Com o valor R$ <montante>, você poderia ter dado entrada em um carro.”
 
-Se ele gastou entre 20 e 50 mil, exibir a mensagem: ok.
+Se ele gastou entre 20 e 50 mil, exibir a mensagem:
 “Com o valor R$ <montante>, você poderia ter comprado um carro popular usado.”
 
 Se ele gastou acima de 50 mil, exibir a mensagem:
