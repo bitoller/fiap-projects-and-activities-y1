@@ -20,7 +20,7 @@ Still coding.<br />
 Description under construction.<br />
 
 <a href="https://github.com/bitoller/fiap-projects-and-activities-s1/tree/main/src/F1/CAP7" target="_blank"> <img src="./src/assets/code_purple.png"> </a> &nbsp; &nbsp;
-<a href="https://bitoller.github.io/fiap-projects-and-activities-s1/tree/main/src/F1/CAP7/smoker.py" target="_blank"> <img src="./src/assets/page_purple.png"> </a> &nbsp; &nbsp;
+<a href="#" target="_blank"> <img src="./src/assets/page_purple.png"> </a> &nbsp; &nbsp;
 
 <hr />
 
