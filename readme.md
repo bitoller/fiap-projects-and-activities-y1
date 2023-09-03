@@ -11,7 +11,7 @@ That's how the course curriculum is separated.<br />
 <hr />
 
 ## F1-CAP5 - 09/20/23 - DESENVOLVA O SEU PRIMEIRO SITE
-Still coding.<br />
+Description under construction.<br />
 
 <a href="https://github.com/bitoller/fiap-projects-and-activities-s1/tree/main/src/F1/CAP5" target="_blank"> <img src="./src/assets/code_purple.png"> </a> &nbsp; &nbsp;
 <a href="https://bitoller.github.io/fiap-projects-and-activities-s1/tree/main/src/F1/CAP5/index.html" target="_blank"> <img src="./src/assets/page_purple.png"> </a> &nbsp; &nbsp;
