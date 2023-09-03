@@ -14,7 +14,7 @@ That's how the course curriculum is separated.<br />
 Description under construction.<br />
 
 <a href="https://github.com/bitoller/fiap-projects-and-activities-s1/tree/main/src/F1/CAP5" target="_blank"> <img src="./src/assets/code_purple.png"> </a> &nbsp; &nbsp;
-<a href="https://bitoller.github.io/fiap-projects-and-activities-s1/tree/main/src/F1/CAP5/index.html" target="_blank"> <img src="./src/assets/page_purple.png"> </a> &nbsp; &nbsp;
+<a href="https://bitoller.github.io/fiap-projects-and-activities-s1/src/F1/CAP5/index.html" target="_blank"> <img src="./src/assets/page_purple.png"> </a> &nbsp; &nbsp;
 
 ## F1-CAP7 - 09/20/23 - CRIAR SEU PROGRAMA COM PYTHON
 Description under construction.<br />
