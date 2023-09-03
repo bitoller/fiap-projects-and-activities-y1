@@ -28,12 +28,20 @@ header {
   font-family: arial;
 }
 
+.nav-top > a:nth-of-type(2) {
+  text-align: center;
+}
+
 .nav-top > a:hover {
   background-color: #92c9ce;
   font-weight: 800;
   padding: 20px 15px 10px 15px;
   height: 30px;
   position: relative;
+}
+
+.nav-top > a:nth-of-type(2):hover {
+  padding: 15px 15px 15px 15px;
 }
 
 .logo {
@@ -73,6 +81,10 @@ header {
   margin-left: 15px;
 }
 
+.nav-bottom > nav > a:nth-of-type(2) {
+  text-align: center;
+}
+
 .nav-bottom > nav > a:hover {
   background-color: #ffffff;
   color: #660000;
@@ -80,6 +92,10 @@ header {
   padding: 20px 15px 10px 15px;
   height: 30px;
   position: relative;
+}
+
+.nav-bottom > nav > a:nth-of-type(2):hover {
+  padding: 15px 15px 15px 15px;
 }
 
 .page-title {
