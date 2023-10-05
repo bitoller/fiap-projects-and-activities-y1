@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Capítulo 10</title>
+  </head>
+  <body>
+    <script>
+      let fullName = prompt("Digite o seu nome completo");
+      if (fullName == "" || fullName == null) {
+        alert("Por favor digite seu nome");
+      } else {
+        let nameParts = fullName.split(" ");
+        let firstNameOnly = nameParts[0];
+        alert(`${firstNameOnly}, obrigado por acessar nosso site!`);
+      }
+    </script>
+  </body>
+</html>

@@ -22,6 +22,12 @@ Description under construction.<br />
 <a href="https://github.com/bitoller/fiap-projects-and-activities-s1/tree/main/src/F1/CAP7" target="_blank"> <img src="./src/assets/code_purple.png"> </a> &nbsp; &nbsp;
 <a href="#" target="_blank"> <img src="./src/assets/page_purple.png"> </a> &nbsp; &nbsp;
 
+## F2-CAP10 - 10/25/23 - PRIMEIRO HANDS ON DO FRONT-END COM JAVASCRIPT
+Description under construction.<br />
+
+<a href="https://github.com/bitoller/fiap-projects-and-activities-s1/tree/main/src/F2/CAP10" target="_blank"> <img src="./src/assets/code_purple.png"> </a> &nbsp; &nbsp;
+<a href="#" target="_blank"> <img src="./src/assets/page_purple.png"> </a> &nbsp; &nbsp;
+
 <hr />
 
 <p align="center">
