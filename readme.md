@@ -26,7 +26,7 @@ Description under construction.<br />
 Description under construction.<br />
 
 <a href="https://github.com/bitoller/fiap-projects-and-activities-s1/tree/main/src/F2/CAP10" target="_blank"> <img src="./src/assets/code_purple.png"> </a> &nbsp; &nbsp;
-<a href="#" target="_blank"> <img src="./src/assets/page_purple.png"> </a> &nbsp; &nbsp;
+<a href="https://bitoller.github.io/fiap-projects-and-activities-s1/src/F2/CAP10/index.html" target="_blank"> <img src="./src/assets/page_purple.png"> </a> &nbsp; &nbsp;
 
 ## F3-CAP4 - 11/22/23 - JÁ SABE PROGRAMAR EM JAVASCRIPT?
 Description under construction.<br />
