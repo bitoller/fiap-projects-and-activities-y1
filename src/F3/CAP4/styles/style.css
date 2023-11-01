@@ -1,9 +1,9 @@
 label,
 p,
 span {
-  color: #ed145b;
+  color: var(--primary-color);
 }
 
 button {
-  background-color: #ed145b;
+  background-color: var(--primary-color);
 }
