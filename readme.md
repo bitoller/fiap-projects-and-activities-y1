@@ -48,6 +48,12 @@ Still coding.<br />
 <a href="https://github.com/bitoller/fiap-projects-and-activities-s1/tree/main/src/F3/GLOBAL-SOLUTIONS" target="_blank"> <img src="./src/assets/code_purple.png"> </a> &nbsp; &nbsp;
 <a href="#" target="_blank"> <img src="./src/assets/page_purple.png"> </a> &nbsp; &nbsp;
 
+## F4-CAP2 - 12/15/23 - UM POUCO MAIS DE BOOTSTRAP
+Description under construction.<br />
+
+<a href="https://github.com/bitoller/fiap-projects-and-activities-s1/tree/main/src/F4/CAP2" target="_blank"> <img src="./src/assets/code_purple.png"> </a> &nbsp; &nbsp;
+<a href="https://bitoller.github.io/fiap-projects-and-activities-s1/src/F4/CAP2/index.html" target="_blank"> <img src="./src/assets/page_purple.png"> </a> &nbsp; &nbsp;
+
 <hr />
 
 <p align="center">
