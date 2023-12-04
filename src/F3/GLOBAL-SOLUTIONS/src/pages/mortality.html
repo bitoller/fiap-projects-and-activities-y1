@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="../styles/reset.css" />
+    <link rel="stylesheet" href="../styles/globalStyles.css" />
+    <link rel="stylesheet" href="../styles/mortality.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
+      crossorigin="anonymous"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200"
+    />
+    <script src="../scripts/mortality.js" defer></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+      crossorigin="anonymous"
+    ></script>
+    <title>TechCare 4 All - Redução da Mortalidade Infantil</title>
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <li class="menu__item"><a href="../../index.html">Home</a></li>
+          <li class="menu__item">
+            <a href="../pages/mortality.html">Redução de Mortalidade</a>
+          </li>
+          <li class="menu__item">
+            <a href="../pages/diseases.html">Combate a Doenças</a>
+          </li>
+          <li class="menu__item">
+            <a href="../pages/treatment.html">Prevenção e Tratamento</a>
+          </li>
+          <li class="menu__item">
+            <a href="../pages/improvement.html">Melhoria Geral</a>
+          </li>
+          <li>
+            <button id="btn">
+              <a
+                href="https://www.youtube.com/embed/rytwTbChY7Q"
+                target="_blank"
+              >
+                Assista a Apresentação</a
+              >
+            </button>
+          </li>
+        </ul>
+        <div class="mobile-menu-icon">
+          <button onclick="menuShow()">
+            <img
+              class="icon"
+              src="../assets/img/menuIcon.svg"
+              alt="ícone de três barras paralelas horizontais"
+            />
+          </button>
+        </div>
+      </nav>
+      <div class="mobile-menu">
+        <ul>
+          <li class="menu__item-mobile"><a href="../../index.html">Home</a></li>
+          <li class="menu__item-mobile">
+            <a href="../pages/mortality.html">Redução de Mortalidade</a>
+          </li>
+          <li class="menu__item-mobile">
+            <a href="../pages/diseases.html">Combate a Doenças</a>
+          </li>
+          <li class="menu__item-mobile">
+            <a href="../pages/treatment.html">Prevenção e Tratamento</a>
+          </li>
+          <li class="menu__item-mobile">
+            <a href="../pages/improvement.html">Melhoria Geral</a>
+          </li>
+          <li>
+            <button id="btn-mobile">
+              <a
+                href="https://www.youtube.com/embed/rytwTbChY7Q"
+                target="_blank"
+              >
+                Assista a Apresentação</a
+              >
+            </button>
+          </li>
+        </ul>
+      </div>
+    </header>
+    <main>
+      <div class="container-fluid bg-primary text-center text-light p-4">
+        <h1>Redução da Mortalidade Infantil</h1>
+      </div>
+      <div class="container">
+        <div class="row mt-4 remove__img">
+          <div class="col">
+            <img
+              src="../assets/img/babyCare.png"
+              alt="imagem de uma família no hospital recebendo seu recém nascido de uma enfermeira após a mulher ter dado a luz"
+            />
+          </div>
+          <div class="col m-auto mt-5">
+            <p>
+              A taxa de mortalidade infantil é um indicador fundamental que mede
+              o número de crianças que morrem antes de completar um ano de
+              idade, a cada mil nascidos vivos. É um dos principais parâmetros
+              utilizados para avaliar a saúde e o bem-estar de uma população,
+              além de refletir as condições socioeconômicas e de saúde de um
+              país ou região.
+            </p>
+            <p>
+              Ao longo das últimas décadas, tem havido um progresso
+              significativo na redução da taxa de mortalidade infantil em escala
+              global. Avanços na medicina, melhorias nas condições de vida,
+              programas de vacinação, educação em saúde e esforços para combater
+              a desnutrição têm contribuído para essa conquista. No entanto,
+              mesmo com esses avanços, a mortalidade infantil ainda persiste
+              como um desafio em muitas partes do mundo, especialmente em países
+              de baixa renda e comunidades desfavorecidas.
+            </p>
+          </div>
+          <img
+            src="../assets/img/babyCareLine.png"
+            alt="imagem de divisória do site"
+          />
+          <hr class="border-3 d-none" id="division__line" />
+        </div>
+        <h3 class="mt-4">
+          Fatores para
+          <i class="border-2 border-bottom border-primary">redução</i> da
+          mortalidade infantil
+        </h3>
+        <div class="row mt-4">
+          <div class="col flex-wrap my-3">
+            <h5>Acesso a cuidados de saúde adequados</h5>
+            <p class="factors__mortality">
+              Um fator fundamental na redução da mortalidade infantil é o acesso
+              a cuidados de saúde de qualidade. Isso inclui acesso a serviços de
+              pré-natal para garantir uma gravidez saudável, assistência ao
+              parto segura e atendimento médico adequado após o nascimento. Além
+              disso, é importante garantir que as crianças tenham acesso a
+              serviços de saúde contínuos, como vacinações, exames médicos e
+              tratamento de doenças comuns na infância.
+            </p>
+          </div>
+          <div class="col flex-wrap my-3">
+            <h5>Melhoria da nutrição</h5>
+            <p class="factors__mortality">
+              A desnutrição é uma das principais causas de mortalidade infantil
+              em muitas partes do mundo. Portanto, garantir uma nutrição
+              adequada desde o início da vida é essencial para reduzir a
+              mortalidade infantil. Isso envolve o incentivo ao aleitamento
+              materno exclusivo nos primeiros meses de vida, o acesso a
+              alimentos nutritivos e balanceados, bem como programas de
+              suplementação alimentar quando necessário.
+            </p>
+          </div>
+          <div class="col flex-wrap my-3">
+            <h5>Melhoria das condições socioeconômicas</h5>
+            <p class="factors__mortality">
+              As condições socioeconômicas desempenham um papel importante na
+              mortalidade infantil. A pobreza, falta de acesso a água potável,
+              saneamento básico e moradia adequada podem aumentar o risco de
+              doenças e afetar negativamente a saúde das crianças. Portanto,
+              medidas que visam melhorar as condições socioeconômicas, como
+              programas de redução da pobreza, acesso a água limpa e saneamento,
+              educação e emprego, podem ter um impacto significativo na redução
+              da mortalidade infantil.
+            </p>
+          </div>
+        </div>
+        <hr class="border-3" />
+        <div class="d-flex my-4">
+          <img
+            class="me-5"
+            src="../assets/img/graphicMortality.png"
+            alt="imagem de um gráfico sobre a taxa bruta de natalidade por mil habitantes no Brasil entre os anos 2000 a 2015"
+          />
+          <div class="pt-3">
+            <h2>
+              <i class="border-2 border-bottom border-primary"
+                >Desenvolvimento</i
+              >
+              de vacinas eficientes
+            </h2>
+            <p class="pt-4">
+              O desenvolvimento de vacinas eficientes, como a vacina contra o
+              sarampo, caxumba, rubéola, poliomielite e outras doenças,
+              desempenhou um papel significativo na redução da mortalidade
+              infantil. Além disso, a melhoria das técnicas de parto seguro, o
+              acesso a antibióticos e medicamentos essenciais, bem como a
+              expansão dos serviços de saúde, permitiram melhores cuidados
+              médicos para as crianças.
+            </p>
+            <div class="d-flex">
+              <div class="format__svg">
+                <p>
+                  <span class="material-symbols-outlined text-primary"
+                    >arrow_circle_right</span
+                  >Melhoria do saneamento básico e acesso à água potável.
+                </p>
+                <p>
+                  <span class="material-symbols-outlined text-primary"
+                    >arrow_circle_right</span
+                  >Melhoria da nutrição infantil
+                </p>
+                <p>
+                  <span class="material-symbols-outlined text-primary"
+                    >arrow_circle_right</span
+                  >Educação e conscientização
+                </p>
+              </div>
+              <div class="format__svg">
+                <p>
+                  <span class="material-symbols-outlined text-primary"
+                    >arrow_circle_right</span
+                  >Avanços na área da saúde e medicina
+                </p>
+                <p>
+                  <span class="material-symbols-outlined text-primary"
+                    >arrow_circle_right</span
+                  >Imunização e vacinação
+                </p>
+                <p>
+                  <span class="material-symbols-outlined text-primary"
+                    >arrow_circle_right</span
+                  >Educação em saúde materno-infantil
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+    <footer class="bg-primary">
+      <div class="container d-flex justify-content-between pt-2">
+        <div class="text-light box">
+          <h2 class="border-5 border-bottom border-light">
+            <i>Informações</i>
+          </h2>
+          <p class="mt-4">
+            Global Solutions - Inovação e tecnologia moldando o futuro da saúde:
+            Prevenção, Automação e Precisão. Em parceria com a Hapvida NotreDame
+            Intermédica, a maior operadora de saúde do Brasil, com mais 16,1
+            milhões de beneficiários de saúde e odontologia.
+          </p>
+        </div>
+        <div class="text-light box__2">
+          <h2 class="border-5 border-bottom border-light">Links</h2>
+          <p>
+            <a class="text-light text-decoration-none" href="../../index.html"
+              ><span class="material-symbols-outlined text-light"
+                >arrow_forward_ios</span
+              >Home</a
+            >
+          </p>
+          <p>
+            <a
+              class="text-light text-decoration-none"
+              href="../pages/mortality.html"
+              ><span class="material-symbols-outlined text-light"
+                >arrow_forward_ios</span
+              >Redução da Mortalidade Infantil</a
+            >
+          </p>
+          <p>
+            <a
+              class="text-light text-decoration-none"
+              href="../pages/diseases.html"
+              ><span class="material-symbols-outlined text-light"
+                >arrow_forward_ios</span
+              >Combate a Doenças Transmissíveis</a
+            >
+          </p>
+          <p>
+            <a
+              class="text-light text-decoration-none"
+              href="../pages/treatment.html"
+              ><span class="material-symbols-outlined text-light"
+                >arrow_forward_ios</span
+              >Prevenção e Tratamento de Doenças Não Transmissíveis</a
+            >
+          </p>
+          <p>
+            <a
+              class="text-light text-decoration-none"
+              href="../pages/improvement.html"
+              ><span class="material-symbols-outlined">arrow_forward_ios</span
+              >Melhoria Geral da Saúde</a
+            >
+          </p>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>
