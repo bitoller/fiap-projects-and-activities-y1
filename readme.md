@@ -43,10 +43,10 @@ For this activity, I had to code a calculator using HTML, CSS and JavaScript.<br
 `input` `conditionals` `variables` `operators` `arithmetics` `arrays` `methods` `string` `number` `+`
 
 ## F3-GLOBAL SOLUTIONS - 12/01/23 - GLOBAL SOLUTIONS NOTRE DAME
-Still coding.<br />
+Description under construction.<br />
 
 <a href="https://github.com/bitoller/fiap-projects-and-activities-s1/tree/main/src/F3/GLOBAL-SOLUTIONS" target="_blank"> <img src="./src/assets/code_purple.png"> </a> &nbsp; &nbsp;
-<a href="#" target="_blank"> <img src="./src/assets/page_purple.png"> </a> &nbsp; &nbsp;
+<a href="https://bitoller.github.io/fiap-projects-and-activities-s1/src/F3/GLOBAL-SOLUTIONS/index.html" target="_blank"> <img src="./src/assets/page_purple.png"> </a> &nbsp; &nbsp;
 
 ## F4-CAP2 - 12/15/23 - UM POUCO MAIS DE BOOTSTRAP
 Description under construction.<br />
