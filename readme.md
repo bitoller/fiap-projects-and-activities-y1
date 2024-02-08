@@ -1,5 +1,5 @@
 # SOFTWARE ENGINEERING COURSE PROJECTS AND ACTIVITIES
-I'll be posting here all the activities and projects I had to code during my Software Engineering college course @ FIAP so I can show my progress. This repository will have almost everything I did during the `first semester`, or `S1` for short.<br />
+I'll be posting here all the activities and projects I had to code during my Software Engineering college course @ FIAP so I can show my progress. This repository will have almost everything I did during the `first year`, or `Y1` for short.<br />
 
 <hr />
 
