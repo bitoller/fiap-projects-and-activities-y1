@@ -11,7 +11,7 @@ That's how the course curriculum is separated.<br />
 <hr />
 
 ## F1-CAP5 - 09/20/23 - DESENVOLVA O SEU PRIMEIRO SITE
-For this activity I had to code a website using HTML and CSS following an example that was given.<br />
+For this activity, I had to code a website using HTML and CSS following an example that was given.<br />
 
 <a href="https://github.com/bitoller/fiap-projects-and-activities-y1/tree/main/src/F1/CAP5" target="_blank"> <img src="./src/assets/code_purple.png"> </a> &nbsp; &nbsp;
 <a href="https://bitoller.github.io/fiap-projects-and-activities-y1/src/F1/CAP5/index.html" target="_blank"> <img src="./src/assets/page_purple.png"> </a> &nbsp; &nbsp;
@@ -43,22 +43,28 @@ For this activity, I had to code a calculator using HTML, CSS and JavaScript.<br
 `input` `conditionals` `variables` `operators` `arithmetics` `arrays` `methods` `string` `number` `+`
 
 ## F3-GLOBAL SOLUTION - 12/01/23 - GLOBAL SOLUTION NOTRE DAME
-Description under construction.<br />
+In response to the challenge proposed by the renowned company Notre Dame, along with the support of our academic institution, we present a visionary and impactful project aimed at addressing various facets of health, aligning with Notre Dame's mission to promote well-being and quality of life.<br />
 
 <a href="https://github.com/bitoller/fiap-projects-and-activities-y1/tree/main/src/F3/GLOBAL-SOLUTIONS" target="_blank"> <img src="./src/assets/code_purple.png"> </a> &nbsp; &nbsp;
 <a href="https://tech-care-for-all.vercel.app/" target="_blank"> <img src="./src/assets/page_purple.png"> </a> &nbsp; &nbsp;
 
+`input` `conditionals` `variables` `operators` `arithmetics` `arrays` `methods` `string` `number` `+`
+
 ## F4-CAP2 - 12/15/23 - UM POUCO MAIS DE BOOTSTRAP
-Description under construction.<br />
+For this activity, I had to code a responsive form using bootstrap following an example that was given.<br />
 
 <a href="https://github.com/bitoller/fiap-projects-and-activities-y1/tree/main/src/F4/CAP2" target="_blank"> <img src="./src/assets/code_purple.png"> </a> &nbsp; &nbsp;
 <a href="https://bitoller.github.io/fiap-projects-and-activities-y1/src/F4/CAP2/index.html" target="_blank"> <img src="./src/assets/page_purple.png"> </a> &nbsp; &nbsp;
 
+`input` `conditionals` `variables` `operators` `arithmetics` `arrays` `methods` `string` `number` `bootstrap` `+`
+
 ## F7-CHALLENGE - 05/10/24 - CHALLENGE REDE ANCORA
-Description under construction.<br />
+In response to the challenge proposed by Rede Ancora, in partnership with our academic institution, we developed an innovative kiosk project using React. This kiosk was created for Rede Ancora stores and offers an interactive experience for users, with various functionalities designed to facilitate access to information about products and services.<br />
 
 <a href="https://github.com/bitoller/fiap-projects-and-activities-y1/tree/main/src/F7/CHALLENGE" target="_blank"> <img src="./src/assets/code_purple.png"> </a> &nbsp; &nbsp;
 <a href="#" target="_blank"> <img src="./src/assets/page_purple.png"> </a> &nbsp; &nbsp;
+
+`scaffolding` `input` `css variables` `styled components` `flexbox` `hover` `focus` `react toastify` `axios` `react router dom` `contextAPI` `react alice carousel` `function` `variables` `data type` `boolean` `conditionals` `objects` `array` `methods` `API` `CRUD` `Reactjs` `JavaScript` `vite` `vercel` `+`
 
 ## F7-GLOBAL SOLUTION - 06/07/24 - GLOBAL SOLUTION BLUE FUTURE
 Description under construction.<br />
