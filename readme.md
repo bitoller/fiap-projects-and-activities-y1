@@ -42,7 +42,7 @@ For this activity, I had to code a calculator using HTML, CSS and JavaScript.<br
 
 `input` `conditionals` `variables` `operators` `arithmetics` `arrays` `methods` `string` `number` `+`
 
-## F3-GLOBAL SOLUTIONS - 12/01/23 - GLOBAL SOLUTIONS NOTRE DAME
+## F3-GLOBAL SOLUTION - 12/01/23 - GLOBAL SOLUTION NOTRE DAME
 Description under construction.<br />
 
 <a href="https://github.com/bitoller/fiap-projects-and-activities-y1/tree/main/src/F3/GLOBAL-SOLUTIONS" target="_blank"> <img src="./src/assets/code_purple.png"> </a> &nbsp; &nbsp;
@@ -58,6 +58,12 @@ Description under construction.<br />
 Description under construction.<br />
 
 <a href="https://github.com/bitoller/fiap-projects-and-activities-y1/tree/main/src/F7/CHALLENGE" target="_blank"> <img src="./src/assets/code_purple.png"> </a> &nbsp; &nbsp;
+<a href="#" target="_blank"> <img src="./src/assets/page_purple.png"> </a> &nbsp; &nbsp;
+
+## F7-GLOBAL SOLUTION - 06/07/24 - GLOBAL SOLUTION BLUE FUTURE
+Description under construction.<br />
+
+<a href="https://github.com/bitoller/fiap-projects-and-activities-y1/tree/main/src/F7/GLOBAL-SOLUTION" target="_blank"> <img src="./src/assets/code_purple.png"> </a> &nbsp; &nbsp;
 <a href="#" target="_blank"> <img src="./src/assets/page_purple.png"> </a> &nbsp; &nbsp;
 
 <hr />
